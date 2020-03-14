@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "avatar": "e1.jpg",
+    "name": "Joan",
+    "slug": "joan",
+    "gender": "Female",
+    "status": "Single",
+    "age": 20,
+    "department": "IT",
+    "salary": 20000,
+    "phone": "+254712345678",
+    "email": "uname@ex.com"
+  },
+  {
+    "id": "2",
+    "avatar": "e2.jpg",
+    "name": "James",
+    "slug": "james",
+    "gender": "Male",
+    "status": "Single",
+    "age": 20,
+    "department": "Marketing",
+    "salary": 20000,
+    "phone": "+254712345678",
+    "email": "uname@ex.com"
+  },
+  {
+    "id": "3",
+    "avatar": "e3.gif",
+    "name": "Emmanuel",
+    "slug": "emmanuel",
+    "gender": "Male",
+    "status": "Single",
+    "age": 20,
+    "department": "Creative",
+    "salary": 20000,
+    "phone": "+254712345678",
+    "email": "uname@ex.com"
+  }
+]
